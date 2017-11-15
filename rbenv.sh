@@ -1,5 +1,6 @@
 
 sudo yum -y install git
+         #https://github.com/rbenv/rbenv.git 
 git clone https:github.com/sstephenson/rbenb.git ~/.rbenv
 git clone https:github.com/sstepheson/ruby-build.git ~/.rbenv/plugins/ruby-build
 echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
