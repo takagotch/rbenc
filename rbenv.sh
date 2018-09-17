@@ -1,3 +1,4 @@
+/* sample */
 
 sudo yum -y install git
          #https://github.com/rbenv/rbenv.git 
