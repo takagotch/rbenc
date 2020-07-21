@@ -20,6 +20,16 @@ rbenv --version
 ```
 
 ```
+// git clone
+// $HOME : ~/.
+//
+
+// rbenv
+$HOME/.rbenv
+// ruby-build
+$HOME/.rbenv/plugins/ruby-build
+
+
 ```
 
 ```
