@@ -1,4 +1,4 @@
-### rbenv rvm
+### rbenv rvm - linux only, not windows
 ---
 
 https://github.com/rbenv/rbenv
