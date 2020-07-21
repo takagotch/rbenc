@@ -47,13 +47,19 @@ export PATH="$HOME/.rbenv/bin:$PATH"
 
 rbenv --version
 ruby --version
+```
 
+```
+// windows buliding ubuntu from virtualbox
+// $HOME: ~/.
+//
+git clone https:://github.com/rbenv/rbenv.git
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+eval "$(rbenv init -)"  // ~/.rbenv/bin/rbenv init
 
 
 
 
 ```
-
-
 
 
