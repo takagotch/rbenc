@@ -5,6 +5,10 @@ https://github.com/rbenv/rbenv
 
 ###### https://github.com/rbenv/ruby-build/wiki - wiki
 ```
+// centos
+yum install -y gcc-6 bzip2 openssl-devel libyaml-devel libffi-devel readline-devel zlib-devel gdbm-devel ncurses-devel
+
+// ubuntu,devian,mint
  sudo apt-get install autoconf bison build-essential libssl-dev libyaml-dev libreadline-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm-dev libdb-dev
 
 ```
