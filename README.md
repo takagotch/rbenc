@@ -4,6 +4,10 @@
 https://github.com/rbenv/rbenv
 
 ###### https://github.com/rbenv/ruby-build/wiki - wiki
+```
+ sudo apt-get install autoconf bison build-essential libssl-dev libyaml-dev libreadline-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm-dev libdb-dev
+
+```
 
 https://github.com/capistrano/rbenv
 
