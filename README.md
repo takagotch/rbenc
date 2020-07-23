@@ -3,6 +3,8 @@
 
 https://github.com/rbenv/rbenv
 
+###### https://github.com/rbenv/ruby-build/wiki - wiki
+
 https://github.com/capistrano/rbenv
 
 ```rb
